@@ -1,0 +1,46 @@
+.createArticlePage{
+
+}
+.createArticlePage h1{
+    text-align: right;
+    font-size: 18px;
+    font-weight: 300; 
+    margin: 40px 0;
+}
+.inputWrapper{
+margin-bottom: 20px;
+}
+.inputWrapper label{
+    display: block;
+    text-align: right;
+    margin-bottom: 5px;
+
+}
+.inputWrapper input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    text-align: right;
+
+}
+
+.buttonWrapper{
+    text-align: right;
+
+}
+
+.buttonWrapper button{
+    text-align: right;
+    padding: 5px 10px;
+    background-color: cornflowerblue;
+    color: #fff;
+    border-radius: 5px;
+    border: none;
+    font-size: 16px;
+    margin-top: 15px;
+
+}
+
+.buttonWrapper button:active{
+    opacity: .8;
+}

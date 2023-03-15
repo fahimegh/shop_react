@@ -1,0 +1,19 @@
+.aboutPage{
+    text-align: center;
+}
+
+.aboutPage h2{
+    text-align: right;
+    margin: 40px 0;
+    
+}
+
+.aboutPage p{
+    text-align: right;
+}
+
+.aboutPage h3{
+    text-align: center;
+    margin: 40px 0;
+    color: #00d16f;
+}

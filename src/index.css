@@ -1,0 +1,53 @@
+@font-face{
+  font-family :bMitra;
+  src : url(./assets/fonts/B Mitra.TTF);
+  
+  font-weight:100;
+
+}
+@font-face{
+  font-family :bMitra;
+  src : url(./assets/fonts/B Mitra Bold.TTF);
+  
+  font-weight:300;
+
+}
+@font-face{
+  font-family :bMitra;
+  src : url(./assets/fonts/B Mitra Bold.TTF);
+  font-weight:500;
+
+}
+@font-face{
+  font-family :bMitra;
+  src : url(./assets/fonts/B Mitra Bold.TTF);
+  font-weight:100;
+
+}
+*{
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family:bMitra;
+  font-weight:100;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+h1,h2,h3,h4,h5,h6,p,ul{
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.container{
+  padding: 0 160px;
+}
+a{
+  text-decoration: none;
+}
